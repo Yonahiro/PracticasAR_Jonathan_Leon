@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<QCARConfig>
-  <Tracking>
-    <ImageTarget name="PlatoVacioQR2" size="1.000000 1.000000" />
-    <ImageTarget name="PlatoVacioQR" size="1.000000 1.000000" />
-  </Tracking>
-</QCARConfig>
